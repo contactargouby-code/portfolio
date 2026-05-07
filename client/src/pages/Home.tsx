@@ -1,10 +1,10 @@
 import { motion } from 'framer-motion';
-import Header from '@/components/Header';
-import HeroSection from '@/components/HeroSection';
-import ProjectsSection from '@/components/ProjectsSection';
-import SkillsSection from '@/components/SkillsSection';
-import ContactSection from '@/components/ContactSection';
-import Footer from '@/components/Footer';
+import Header from '../components/Header';
+import HeroSection from '../components/HeroSection';
+import ProjectsSection from '../components/ProjectsSection';
+import SkillsSection from '../components/SkillsSection';
+import ContactSection from '../components/ContactSection';
+import Footer from '../components/Footer';
 
 /**
  * Home Page - Portfolio Personnel Ultra Pro Premium
